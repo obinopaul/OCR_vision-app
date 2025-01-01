@@ -1,0 +1,8 @@
+streamlit 
+pillow 
+pytesseract 
+transformers
+ollama
+easyocr
+groq
+opencv-python
