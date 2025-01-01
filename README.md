@@ -5,7 +5,7 @@ OCR Vision App is a user-friendly tool designed to extract structured text from 
 ---
 
 <div align="center">
-  <img src="CustomGPT.gif" alt="Alt Text" />
+  <img src="OCR_vision-app.gif" alt="Alt Text" />
 </div>
 
 ## Features
